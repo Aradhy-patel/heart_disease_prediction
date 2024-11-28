@@ -1,0 +1,14 @@
+ensure
+pandas
+dvc
+mlflow==2.2.2
+notebook
+numpy
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+joblib
+scipy
+Flask
+Flask-Cors

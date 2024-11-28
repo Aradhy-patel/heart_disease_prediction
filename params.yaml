@@ -1,0 +1,5 @@
+preprocess:
+    path: data/heart.csv
+    processed_path: cleaned
+    file_type: csv
+    target: target
