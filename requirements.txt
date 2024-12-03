@@ -12,3 +12,5 @@ joblib
 scipy
 Flask
 Flask-Cors
+cmake
+pyarrow
