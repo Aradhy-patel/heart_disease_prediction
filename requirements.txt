@@ -13,4 +13,4 @@ scipy
 Flask
 Flask-Cors
 cmake
-pyarrow
+pyarrow==10.0.1
