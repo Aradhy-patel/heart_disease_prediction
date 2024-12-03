@@ -6,3 +6,7 @@ preprocess:
 train:
     train_path: cleaned/train_cleaned.csv
     target: target
+prediction:
+    model: artifacts/best_model_RandomForest.h5
+    data: cleaned/train_cleaned.csv
+    
